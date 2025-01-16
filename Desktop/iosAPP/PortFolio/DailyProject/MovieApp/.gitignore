@@ -1,0 +1,10 @@
+# Ignore API keys
+API.plist
+
+# Ignore Xcode files
+*.xcuserstate
+*.xcworkspace
+
+# Ignore build files
+build/
+DerivedData/
