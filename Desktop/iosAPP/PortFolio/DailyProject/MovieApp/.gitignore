@@ -14,3 +14,7 @@ API.plist
 # Ignore build files
 build/
 DerivedData/
+
+#Ignore
+jamorno
+jamorno.pub
