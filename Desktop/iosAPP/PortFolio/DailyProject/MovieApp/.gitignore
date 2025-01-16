@@ -1,3 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Xcode-specific
+xcuserdata/
+
 # Ignore API keys
 API.plist
 
