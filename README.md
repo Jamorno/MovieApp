@@ -24,7 +24,7 @@ Objectives
 - Networking: URLSession for API requests: TMDb API
     
 ## Installation
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/Jamorno/MovieApp.git`
 2. Open the project in Xcode.
 3. Run the app on a simulator or device.
 
